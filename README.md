@@ -77,12 +77,12 @@ Predictions are made on the test data using the trained model, and the results a
 The trained model is used to predict drug resistance for specific GBM drugs, and the results are saved.
 
 ## Usage
--Ensure all dependencies are installed.
--Place the input data files in the correct directories as indicated.
--Run the notebook cells sequentially.
--Results and trained models will be saved in the specified directories.
+- Ensure all dependencies are installed.
+- Place the input data files in the correct directories as indicated.
+- Run the notebook cells sequentially.
+- Results and trained models will be saved in the specified directories.
 ## Conclusion
--This notebook provides a comprehensive pipeline for rug Efficacy Recommendation and Repurposing System for Glioblastoma Using Machine Learning. The use of quantile transformation, feature engineering, and robust model evaluation ensures high-quality predictions that can aid in personalized medicine and pharmacogenomics research.
+- This notebook provides a comprehensive pipeline for rug Efficacy Recommendation and Repurposing System for Glioblastoma Using Machine Learning. The use of quantile transformation, feature engineering, and robust model evaluation ensures high-quality predictions that can aid in personalized medicine and pharmacogenomics research.
 
 ## Contact Information
 For any questions or issues, please contact [xajidnaveed@gmail.com].
