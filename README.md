@@ -40,14 +40,14 @@ Ensure you have the following libraries installed:
 ## Output Data
 The output data and models are saved in the result and models directories, respectively:
 
--LabelModel10fold.csv
--feature.csv
--LGBM10fold.csv
--unseen_predict.csv
--GBM_Carmustine_pred.csv
--GBM_Temozolomide_pred.csv
--Final_et_LNIC50_Model_25June2022
--Final_lgbm_Model_25June2022
+- LabelModel10fold.csv
+- feature.csv
+- LGBM10fold.csv
+- unseen_predict.csv
+- GBM_Carmustine_pred.csv
+- GBM_Temozolomide_pred.csv
+- Final_et_LNIC50_Model_25June2022
+- Final_lgbm_Model_25June2022
 ## Steps
 1. Importing Libraries
 Necessary libraries are imported for data manipulation, visualization, and machine learning.
