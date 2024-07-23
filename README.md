@@ -1,4 +1,3 @@
-
 # Drug Efficacy Recommendation and Repurposing System for Glioblastoma Using Machine Learning
 
 
@@ -25,7 +24,7 @@ Ensure you have the following libraries installed:
 
 
 ## Data
-
+### We used a public dataset commonly employed for drug sensitivity studies: the Genomics of Drug Sensitivity in Cancer (GDSC)
 1. Input Data
 2. panCancer_train_CGC_657_DR_Drug_features_new_df.csv: 
 3. Training data for pan-cancer
